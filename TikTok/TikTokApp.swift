@@ -2,7 +2,7 @@
 //  TikTokApp.swift
 //  TikTok
 //
-//  Created by Mohit Yadav on 15/12/21.
+//  Created by Eren Cem Salta on 3/17/21.
 //
 
 import SwiftUI
